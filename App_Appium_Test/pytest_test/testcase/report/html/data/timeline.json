@@ -1,0 +1,61 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "wuyanhongdeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "2289-MainThread",
+      "children" : [ {
+        "name" : "xiaohong",
+        "uid" : "576581e93fee1d48",
+        "parentUid" : "17d7090c9119d26f05c6475db4616766",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574318121909,
+          "stop" : 1574318121911,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ "'xiaohong'", "'456456'" ]
+      }, {
+        "name" : "测试用例标题2",
+        "uid" : "eae5c16d0d5d857a",
+        "parentUid" : "17d7090c9119d26f05c6475db4616766",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574318121849,
+          "stop" : 1574318121849,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试用例标题1",
+        "uid" : "55417f0ca075b5f6",
+        "parentUid" : "17d7090c9119d26f05c6475db4616766",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574318121846,
+          "stop" : 1574318121847,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "xiaoming",
+        "uid" : "9befd1df24da2039",
+        "parentUid" : "17d7090c9119d26f05c6475db4616766",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574318121896,
+          "stop" : 1574318121897,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ "'xiaoming'", "'123123'" ]
+      } ],
+      "uid" : "17d7090c9119d26f05c6475db4616766"
+    } ],
+    "uid" : "730ccbc3a1bf19d1ae1c34ca552389b8"
+  } ]
+}

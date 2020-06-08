@@ -1,0 +1,61 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "这里是一级标签：feature",
+    "children" : [ {
+      "name" : "这里是二级标签:a",
+      "children" : [ {
+        "name" : "测试用例标题1",
+        "uid" : "55417f0ca075b5f6",
+        "parentUid" : "d7bcf6bce2c6409cfc54eb39ece59122",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574318121846,
+          "stop" : 1574318121847,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试用例标题2",
+        "uid" : "eae5c16d0d5d857a",
+        "parentUid" : "d7bcf6bce2c6409cfc54eb39ece59122",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574318121849,
+          "stop" : 1574318121849,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d7bcf6bce2c6409cfc54eb39ece59122"
+    }, {
+      "name" : "xiaoming",
+      "uid" : "9befd1df24da2039",
+      "parentUid" : "cd633af6b3a8209225e79f99be4c7ab7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574318121896,
+        "stop" : 1574318121897,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ "'xiaoming'", "'123123'" ]
+    }, {
+      "name" : "xiaohong",
+      "uid" : "576581e93fee1d48",
+      "parentUid" : "cd633af6b3a8209225e79f99be4c7ab7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574318121909,
+        "stop" : 1574318121911,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "parameters" : [ "'xiaohong'", "'456456'" ]
+    } ],
+    "uid" : "cd633af6b3a8209225e79f99be4c7ab7"
+  } ]
+}

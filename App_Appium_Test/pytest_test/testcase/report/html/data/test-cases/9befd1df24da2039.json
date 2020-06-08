@@ -1,0 +1,112 @@
+{
+  "uid" : "9befd1df24da2039",
+  "name" : "xiaoming",
+  "fullName" : "testcase.test_class.Test_Fixture#case_dynamic[xiaoming-123123]",
+  "historyId" : "c03d4847c5505adf0f1508d4f18a618c",
+  "time" : {
+    "start" : 1574318121896,
+    "stop" : 1574318121897,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "第1步：",
+      "time" : {
+        "start" : 1574318121897,
+        "stop" : 1574318121897,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "第2步：",
+      "time" : {
+        "start" : 1574318121897,
+        "stop" : 1574318121897,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "这里是一级标签：feature"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_class"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Fixture"
+  }, {
+    "name" : "host",
+    "value" : "wuyanhongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "2289-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_class"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "name",
+    "value" : "'xiaoming'"
+  }, {
+    "name" : "password",
+    "value" : "'123123'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aca6fbaee0617867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574317980275,
+        "stop" : 1574317980275,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9befd1df24da2039.json",
+  "parameterValues" : [ "'xiaoming'", "'123123'" ]
+}

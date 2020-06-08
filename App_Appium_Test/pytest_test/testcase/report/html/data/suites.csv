@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcase.test_class.Test_Fixture#case_dynamic[xiaohong-456456]","2",""
+"failed","testcase.test_class.Test_Fixture#case_b","0","测试用例2的描述"
+"passed","testcase.test_class.Test_Fixture#case_a","1","测试用例1的描述"
+"passed","testcase.test_class.Test_Fixture#case_dynamic[xiaoming-123123]","1",""

@@ -1,0 +1,62 @@
+{
+  "uid" : "b2e873c9e9004147",
+  "name" : "xiaohong",
+  "fullName" : "testcase.test_class.Test_Fixture#case_dynamic[xiaohong-456456]",
+  "historyId" : "cb51944f712fe55f26054e0ff48685fe",
+  "time" : {
+    "start" : 1574317980279,
+    "stop" : 1574317980279,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "这里是一级标签：feature"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_class"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Fixture"
+  }, {
+    "name" : "host",
+    "value" : "wuyanhongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "2244-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_class"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "name",
+    "value" : "'xiaohong'"
+  }, {
+    "name" : "password",
+    "value" : "'456456'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2e873c9e9004147.json",
+  "parameterValues" : [ "'xiaohong'", "'456456'" ]
+}

@@ -1,0 +1,7 @@
+2019-11-08 17:42:59,339 - log_file - INFO - 这是一个info信息
+2019-11-08 17:42:59,342 - log_file - WARNING - 这是一个warning信息
+
+2019-11-11 11:24:37,941 - log_file - INFO - 这是一个info信息
+2019-11-11 11:24:37,942 - log_file - WARNING - 这是一个warning信息
+2019-11-11 12:27:59,772 - log_file - INFO - 这是一个info信息
+2019-11-11 12:27:59,773 - log_file - WARNING - 这是一个warning信息

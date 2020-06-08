@@ -1,0 +1,105 @@
+{
+  "uid" : "c4d0e9cef77da5c0",
+  "name" : "测试用例标题1",
+  "fullName" : "testcase.test_class.Test_Fixture#case_a",
+  "historyId" : "e287db4340dc9bff7bab55522e79959d",
+  "time" : {
+    "start" : 1574317980237,
+    "stop" : 1574317980237,
+    "duration" : 0
+  },
+  "description" : "测试用例1的描述",
+  "descriptionHtml" : "<p>测试用例1的描述</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试用例1的描述",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1",
+      "time" : {
+        "start" : 1574317980237,
+        "stop" : 1574317980237,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "步骤2",
+      "time" : {
+        "start" : 1574317980237,
+        "stop" : 1574317980237,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "这里是二级标签:a"
+  }, {
+    "name" : "feature",
+    "value" : "这里是一级标签：feature"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_class"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Fixture"
+  }, {
+    "name" : "host",
+    "value" : "wuyanhongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "2244-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_class"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4d0e9cef77da5c0.json",
+  "parameterValues" : [ ]
+}

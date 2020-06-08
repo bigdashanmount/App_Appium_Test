@@ -1,0 +1,94 @@
+{
+  "uid" : "a828fc028b3a6793",
+  "name" : "测试用例标题2",
+  "fullName" : "testcase.test_class.Test_Fixture#case_b",
+  "historyId" : "50059e70e14d90a6dbcdf0573b43a65e",
+  "time" : {
+    "start" : 1574317980239,
+    "stop" : 1574317980240,
+    "duration" : 1
+  },
+  "description" : "测试用例2的描述",
+  "descriptionHtml" : "<p>测试用例2的描述</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <pytest_test.testcase.test_class.Test_Fixture object at 0x1024116d8>\n\n    @allure.title(\"测试用例标题2\")\n    @allure.description(\"测试用例2的描述\")\n    @allure.story(\"这里是二级标签:a\")\n    @allure.severity(allure.severity_level.BLOCKER)\n    def case_b(self):\n        print(\"----test_b----\")\n        self.step_3()\n>       assert 0\nE       assert 0\n\ntestcase/test_class.py:40: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试用例2的描述",
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 0",
+    "statusTrace" : "self = <pytest_test.testcase.test_class.Test_Fixture object at 0x1024116d8>\n\n    @allure.title(\"测试用例标题2\")\n    @allure.description(\"测试用例2的描述\")\n    @allure.story(\"这里是二级标签:a\")\n    @allure.severity(allure.severity_level.BLOCKER)\n    def case_b(self):\n        print(\"----test_b----\")\n        self.step_3()\n>       assert 0\nE       assert 0\n\ntestcase/test_class.py:40: AssertionError",
+    "steps" : [ {
+      "name" : "步骤3",
+      "time" : {
+        "start" : 1574317980240,
+        "stop" : 1574317980240,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "这里是二级标签:a"
+  }, {
+    "name" : "feature",
+    "value" : "这里是一级标签：feature"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_class"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Fixture"
+  }, {
+    "name" : "host",
+    "value" : "wuyanhongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "2244-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_class"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a828fc028b3a6793.json",
+  "parameterValues" : [ ]
+}

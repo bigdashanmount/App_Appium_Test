@@ -1,0 +1,41 @@
+[ {
+  "uid" : "9befd1df24da2039",
+  "name" : "xiaoming",
+  "time" : {
+    "start" : 1574318121896,
+    "stop" : 1574318121897,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55417f0ca075b5f6",
+  "name" : "测试用例标题1",
+  "time" : {
+    "start" : 1574318121846,
+    "stop" : 1574318121847,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "576581e93fee1d48",
+  "name" : "xiaohong",
+  "time" : {
+    "start" : 1574318121909,
+    "stop" : 1574318121911,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eae5c16d0d5d857a",
+  "name" : "测试用例标题2",
+  "time" : {
+    "start" : 1574318121849,
+    "stop" : 1574318121849,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+} ]

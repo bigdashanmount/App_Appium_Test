@@ -1,0 +1,20 @@
+
+#platformName
+platformName: 'Android'
+#platformVersion
+platfromVersion: '8.0'
+#deviceName
+deviceName: 'Google'
+
+#启动程序的包名appPackage
+appPackage: 'com.boxuegu'
+
+#启动界面名appActivity
+appActivity: 'com.boxuegu.activity.MainFlutterActivity'
+
+#解决中文
+unicodeKeyboard: True
+resetKeyboard:  True
+
+#获取toast automationName = uiautomator2
+automationName: 'uiautomator2'

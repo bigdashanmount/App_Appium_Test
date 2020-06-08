@@ -1,0 +1,55 @@
+{
+  "uid" : "5d29ee6659add7d1",
+  "name" : "测试用例标题1",
+  "fullName" : "testcase.test_class.Test_Fixture#case_a",
+  "historyId" : "e287db4340dc9bff7bab55522e79959d",
+  "time" : {
+    "start" : 1574306934015,
+    "stop" : 1574306934016,
+    "duration" : 1
+  },
+  "description" : "测试用例1的描述",
+  "descriptionHtml" : "<p>测试用例1的描述</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_class"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Fixture"
+  }, {
+    "name" : "host",
+    "value" : "wuyanhongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "1196-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_class"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d29ee6659add7d1.json",
+  "parameterValues" : [ ]
+}
